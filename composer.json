@@ -1,0 +1,35 @@
+{
+  "name": "whitespace-se/matomo",
+  "type": "package",
+  "description": "Matomo is a analytics platform",
+  "keywords": [
+    "piwik",
+    "matomo",
+    "web",
+    "analytics"
+  ],
+  "type": "package",
+  "homepage": "https://matomo.org",
+  "license": "GPL-3.0+",
+  "authors": [{
+    "name": "The Matomo Team",
+    "email": "hello@matomo.org",
+    "homepage": "https://matomo.org/team/"
+  }],
+  "support": {
+      "forum": "https://forum.matomo.org/",
+      "issues": "https://github.com/matomo-org/matomo/issues",
+      "wiki": "https://github.com/matomo-org/matomo/wiki",
+      "source": "https://github.com/matomo-org/matomo"
+  },
+  "config":{
+    "platform": {
+      "php": "5.5.9"
+    }
+  },
+  "require": {
+    "php": ">=5.5.9",
+    "whitespace-se/matomo-core-installer": "^1.0",
+    "whitespace-se/matomo-core": "dev-master"
+  }
+}
