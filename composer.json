@@ -8,6 +8,7 @@
     "web",
     "analytics"
   ],
+  "minimum-stability": "dev",
   "type": "package",
   "homepage": "https://matomo.org",
   "license": "GPL-3.0+",
