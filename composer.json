@@ -8,7 +8,7 @@
     "web",
     "analytics"
   ],
-  "minimum-stability": "dev",  
+  "minimum-stability": "dev",
   "type": "package",
   "homepage": "https://matomo.org",
   "license": "GPL-3.0+",
@@ -31,6 +31,6 @@
   "require": {
     "php": ">=5.5.9",
     "whitespace-se/matomo-core-installer": "^1.0",
-    "whitespace-se/matomo-core": "3.13.1"
+    "whitespace-se/matomo-core": "3.13.3"
   }
 }
