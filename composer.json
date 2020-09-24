@@ -33,6 +33,6 @@
   "require": {
     "php": ">=5.5.9",
     "whitespace-se/matomo-core-installer": "^1.0",
-    "whitespace-se/matomo-core": "3.14.0"
+    "whitespace-se/matomo-core": "3.14.1"
   }
 }
